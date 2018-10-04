@@ -12,7 +12,7 @@ Playable demo: https://mhagmajer.github.io/snake-react/
 
 * :twisted_rightwards_arrows: Ability to move the snake's  head in the main four directions (:arrow_left::arrow_up::arrow_right::arrow_down:). The board is continuous - eg. crossing the right edge makes the snake appear on the left edge.
   * Tip: Since `onKeyDown` only works for focused elements and `svg` is not focusable, it's best to attach `keydown` event handler directly to `document`.
-* :apple: Emergence of edible fruits at random time and place which make the snake grow once hit with the head. The fruit should disappear (rot) after some time.
+* :apple: Emergence of edible fruits at random time and place which make the snake grow once hit with its head. The fruit should disappear (rot) after some time.
 * :speak_no_evil: Game over when snake's head touches another part of its body.
 * :hourglass: Pausing the game.
 * :1234: Displaying live score of the game (running time, lenght of the snake).
