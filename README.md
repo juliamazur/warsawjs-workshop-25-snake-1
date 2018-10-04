@@ -19,7 +19,7 @@ Playable demo: https://mhagmajer.github.io/snake-react/
 
 ### Optional
 
-* :grapes::ice_cream::banana: Different shapes of the fruits.
+* :grapes::ice_cream::banana: Different shapes of the fruits with various effects.
 * :trollface: A fun snake's head.
 * :gear: Settings panel where you can adjust the speed, size of the board and more while the game is being played.
 * :family: Second player's snake directed by WSAD keys.
