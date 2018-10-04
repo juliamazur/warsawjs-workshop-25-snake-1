@@ -8,7 +8,7 @@
 
 ### Essential
 
-* :twisted_rightwards_arrows: Ability to move the snake's  head in the main four directions (:arrow_left::arrow_up::arrow_right::arrow_down:)
+* :twisted_rightwards_arrows: Ability to move the snake's  head in the main four directions (:arrow_left::arrow_up::arrow_right::arrow_down:). The board is continuous - eg. crossing the right edge makes the snake appear on the left edge.
 * :apple: Emerging of edible fruits at random time and places which make the snake grow
 * :speak_no_evil: Game over when snake's head touches another part of its body
 * :hourglass: Pausing the game
